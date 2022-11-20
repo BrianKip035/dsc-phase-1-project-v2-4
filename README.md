@@ -40,20 +40,21 @@ are in the zippedData folder are from the following websites
 [The Numbers](https://www.the-numbers.com/)
 ## Screenshots
 Average Rating vs Domestic Gross
-![App Screenshot](Average Rating vs Domestic Gross)
+
+<img src="Average Rating vs Domestic Gross.png">
 
 Average Rating vs foreign Gross
-![App Screenshot](Average Rating vs foreign Gross)
+
+<img src="Average Rating vs foreign Gross.png">
 
 Average Rating vs Number of votes
-![App Screenshot](Average Rating vs Number of votes)
+<img src="Average Rating vs Number of votes.png">
 
 Movies Vs Average rating
-![App Screenshot](Movies Vs Average rating)
+<img src="Movies Vs Average rating.png">
 
 Movies Vs domestic gross
-![App Screenshot](Movies Vs domestic gross)
-
+<img src="Movies Vs domestic gross.png">
 
 
 
