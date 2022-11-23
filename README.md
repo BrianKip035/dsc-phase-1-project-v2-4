@@ -63,3 +63,7 @@ Movies Vs domestic gross
 1. Movies with high ratings will produce the Both high domestic gross and foreign income
 2. The studio BV is the one dominating the market with production of Movies with the highest rating and also most of those highly rated movies are Fiction
 3. Highest rated movies are like to get the most votes
+
+## Recommendation
+
+[presentation]()
